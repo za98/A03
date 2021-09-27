@@ -36,3 +36,12 @@ Push - this command uploads the local repository to a remote one, accessed by al
 Pull - allows you to take commits from a remote repository and update it on your local repository. 
 Remote - a repository that is on the internet, accessible by fellow teammates and other people accessing your profile.
 Repository - a storage area for projects and other content to exist
+
+
+Refrences: 
+“What Is Git?” Educative, https://www.educative.io/edpresso/what-is-git. 
+GitHub glossary. GitHub Docs. (n.d.). Retrieved September 27, 2021, from https://docs.github.com/en/get-started/quickstart/github-glossary. 
+Gallagher, J. (2020, December 29). Git fetch: A step-by-step guide. Career Karma. Retrieved September 27, 2021, from https://careerkarma.com/blog/git-fetch/. 
+GitHub glossary. GitHub Docs. (n.d.). Retrieved September 27, 2021, from https://docs.github.com/en/get-started/quickstart/github-glossary. 
+The difference between git pull vs fetch: Solutions to git problems. GitKraken. (2021, May 28). Retrieved September 27, 2021, from https://www.gitkraken.com/learn/git/problems/git-pull-vs-fetch. 
+
