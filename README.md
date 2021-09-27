@@ -15,21 +15,24 @@ For MACOS users:
 11. Instaed of seeing VCS, you should see Git and you can now share this project on Github.
 12. Press on Git, then find where it says Github and click "Share Project on GitHub"
 13. Add your account and now the project should appear on your github, with the README.md as the content of the file.
-14. Anytime new changes have been added, your press the "Commit" under "Git" and it should update on your Github project
+14. Anytime new changes have been added, your press the "Commit" under "Git" and it should update on your Github project giving you the "Push" option.
+15. Push updates your project to Github, which isn't local like Commit.
 
-Part 2: Glossary to include these terms in a bulleted list.
+FOR WINDOWS USERS:
+Directions will be the same except for the mac operating system
+FOLLOW EVERYTHING AFTER STEP 5
 
-Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+GLOSSARY for GitHub terms:
 
-Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+Branch - Branch is a independent form of your project. If you have a project that is desgined, and you want to add changes without affecting the mainstream, branch completes this task. You can then merge the branch back into the main branch to apply these changes.
+Clone - it is a copy of the master branch in your repository. It will exist on your local machine until you push it to a remote repository 
+Commit - saves your changes to a file on your local repository. The change is then given a unique ID to keep track of changes.
+Fetch - downloads all the content from a repository such as branches, tags, data, etc. This allows you to look at the history and what changes have been made up to date. 
+GIT - a versional control systems that tracks projects and files. It also tracks the source code you write, which enables you to collaborate with other people on code. This is what allows you to upload on GitHub, as your source code goes through changes and can be changed from local to remote in a respository. 
+Github - a platform which allows the collaborative space on projects to become easier and as well as makes showcasing projects an easier process.
+Merge - is the process of taking the contents of a branch in the repository and fusing it with another. Usually you need to request in order to do this command. 
+Merge Conflict - this occurs when two opposing changes happens in a file or to a branch. Sometimes a file can be deleted by someone and then the other person edits it, thus causing a conflict.
+Push - this command uploads the local repository to a remote one, accessed by all who view the profile.
+Pull - allows you to take commits from a remote repository and update it on your local repository. 
+Remote - a repository that is on the internet, accessible by fellow teammates and other people accessing your profile.
+Repository - a storage area for projects and other content to exist
